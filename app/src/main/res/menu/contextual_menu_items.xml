@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/contexual_option_1"
+        android:title="Contexual Option 1" />
+
+
+    <item
+        android:id="@+id/contexual_option_2"
+        android:title="Contexual Option 2" />
+
+    <item
+        android:id="@+id/contexual_option_3"
+        android:title="Contexual Option 3" />
+
+</menu>
